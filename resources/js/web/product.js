@@ -1,0 +1,3 @@
+$(function () {
+    $("#exzoom").exzoom({});
+});

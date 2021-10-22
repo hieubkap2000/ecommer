@@ -1,0 +1,52 @@
+.btnCustom {
+    width: 40% !important;
+    height: 35px;
+    float: left;
+}
+#holder {
+    text-align: center;
+}
+#holder img {
+    min-height: 200px;
+    border: 1px solid #dedcdc;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#holder2 {
+    text-align: center;
+}
+#holder2 img {
+    min-height: 200px;
+    border: 1px solid #dedcdc;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.label-permission {
+    padding-top: 5px;
+}
+.label-permission span {
+    padding: 2px;
+    border-radius: 9px;
+}
+.img-flag {
+    width: 65px;
+    padding-right: 10px;
+}
+.select2-result-brand-selection {
+    margin-top: -6px;
+}
+.img-flag-selection {
+    height: 35px;
+}
+.bootstrap-tagsinput span {
+    margin-right: 5px !important;
+    color: #fff;
+}

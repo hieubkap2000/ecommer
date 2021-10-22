@@ -1,0 +1,49 @@
+.img-brand {
+    height: 115px;
+}
+.post-img img {
+    width: 960px;
+    height: 300px;
+}
+#input-limit {
+    padding: 3px;
+}
+.newpost img {
+    height: 70px;
+}
+
+.post-details img {
+    height: auto;
+}
+
+.menu_customer {
+    width: 100%;
+}
+.menu_customer ul li {
+    margin-bottom: 5px;
+}
+.menu_customer ul li a {
+    padding: 10px;
+    color: #ffffff;
+}
+
+.menu_customer ul li a:hover {
+    background-color: #e40001;
+}
+
+.img_cart {
+    height: 100px;
+}
+
+.product-imageblock img {
+    height: 360px;
+}
+
+.btn_cart {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.image_selling_product img{
+    height: 100px;
+}
